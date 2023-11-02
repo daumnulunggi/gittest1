@@ -15,6 +15,7 @@
       <OL>
           <LI>설악산</LI>
           <LI>동해</LI>
+          <LI>카페산 카페</LI>
       </OL>      
   </DIV> 
 </body>
