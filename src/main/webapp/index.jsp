@@ -11,8 +11,9 @@
   <div style="margin: 50px;">
       <h1>깃 테스트</h1>
       <ol>
-          <li>누룽지: </li>
-          <li>대부도 해물 칼국수</li>
+        <li>누룽지 </li>
+        <li>비루개</li>
+        <li>대부도 해물 칼국수</li>
       </ol>
   </div> 
 </body>
